@@ -11,7 +11,7 @@ Right now I'm working on improving my **Go** skills. In the future, I will start
 ### 🙆🏻‍♂️ In my free time...
 
 🕺🏻 I like to dance salsa and bachata time to time! </br>
-🎮 I'm passionate about videogames (I'm working in a [project](https://github.com/jero-dev/gamebrary) for managing your game collection!) </br>
+🎮 I'm passionate about videogames </br>
 🪛 A tinkerer as far back as I can remember </br>
 🌄 Outdoors enjoyer, for a hike or for a picnic </br>
 ✈️ Exploring new places traveling </br>

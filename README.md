@@ -1,18 +1,18 @@
 ## What up! Jero here 👋
 
-I'm a Software Engineer with +4 years of experience, integrating and creating tools that improve the workflow and quality in the engineering teams.
+I'm a Software Engineer with +5 years of experience, integrating and creating tools that improve the workflow and quality in the engineering teams.
 
 ### 👨🏻‍💻 What I'm working on?
 
 Mainly I work with **Microsoft technologies**, like **.NET**, **Azure** and **Azure DevOps**, with a little bit of scripting in **bash** and **PowerShell**. Also, I did my dissertation in **Go**, creating an MVP for having a centralized solution for videogame sales in channels from Telegram or servers in Discord. You can check it [**here**](https://github.com/jero-dev/proyecto-tfg)! (It's in spanish, btw).
 
-Right now I'm working on improving my **Go** skills. In the future, I will start learning more about **frontend technologies** and **mobile development**.
+Right now I'm working on improving my **Go** skills and **low-level programming**. In the future, I will start learning more about **frontend technologies** and **mobile development**.
 
 ### 🙆🏻‍♂️ In my free time...
 
-🕺🏻 I like to dance salsa and bachata time to time! </br>
 🎮 I'm passionate about videogames </br>
 🪛 A tinkerer as far back as I can remember </br>
+🕺🏻 I like to dance salsa and bachata time to time! </br>
 🌄 Outdoors enjoyer, for a hike or for a picnic </br>
 ✈️ Exploring new places traveling </br>
 🍜 FOOD (Yep, that's all)
@@ -41,4 +41,4 @@ Right now I'm working on improving my **Go** skills. In the future, I will start
 
 ### Contact info
 
-If you wanna reach out, you can always send me a [mail](mailto:jerocc_dev@outlook.com) or connect in [LinkedIn](https://www.linkedin.com/in/jero-dev/)!
+If you wanna reach out, you can always send me a [mail](mailto:jerocc.dev@proton.me) or connect in [LinkedIn](https://www.linkedin.com/in/jero-dev/)!
